@@ -1,3 +1,7 @@
+/**
+ * Archivo modificado por julissa
+ */
+
 package pe.com.csmm.aplicacionclientecsmm.Dao;
 
 import android.content.ContentValues;

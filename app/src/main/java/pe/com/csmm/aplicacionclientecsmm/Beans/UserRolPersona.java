@@ -1,7 +1,7 @@
 package pe.com.csmm.aplicacionclientecsmm.Beans;
 
 /**
- * Created by RICHARD on 11/03/2017.
+ *
  */
 public class UserRolPersona {
 
